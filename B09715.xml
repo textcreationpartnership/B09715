@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The further proceedings of Mr. James Percy since the seventh of October, 1686.</title>
+            <author>Percy, James, 1619-1690?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09715</idno>
+            <idno type="OCLC"> 80923356</idno>
+            <idno type="STC">Wing P1457</idno>
+            <idno type="STC">ESTC R181652</idno>
+            <idno type="EEBO-CITATION">80923356</idno>
+            <idno type="OCLC">ocm 80923356</idno>
+            <idno type="VID">191949</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09715)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191949)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2896:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The further proceedings of Mr. James Percy since the seventh of October, 1686.</title>
+                  <author>Percy, James, 1619-1690?</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed the sixth of November, 1686. by James Percy.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: creased with slight loss of text.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Percy, James, 1619-1690? --  Family.</term>
+               <term>Nobility --  England --  Early works to 1800.</term>
+               <term>Inheritance and succession --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Genealogy --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proceedings">
+            <pb facs="tcp:191949:1" rendition="simple:additions"/>
+            <head>The further Proceedings of Mr. <hi>JAMES PERCY</hi> ſince the Seventh of <hi>October,</hi> 1686.</head>
+            <floatingText xml:lang="eng" type="warrant">
+               <body>
+                  <head>A Warrant to Search for Mr. <hi>James Percy</hi> Pedigree.</head>
+                  <p>I <hi>Do hereby Order and Appoint that the Officers of</hi> Arms <hi>do, at the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>xt Chapter to be held in the Colledge of</hi> Arms, <hi>Search what they have (if any thing) relating to <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Pedigree of Mr.</hi> James Percy, <hi>and Certifie to me what they ſhall find touching this Matter.</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> under my <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Seal the 9th. day of <hi>October,</hi> 1686.</p>
+                  <trailer>To the King's Heralds and Purſivants of <hi>Arms.</hi>
+                  </trailer>
+                  <closer>
+                     <signed>Norfolk, <hi>&amp;c. Marſh.</hi>
+                     </signed>
+                     <dateline>This Warrant was received into the Heralds Office <date>the 12th. of <hi>October,</hi> 1686</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="response">
+               <body>
+                  <head>To Sir <hi>Thomas St. George,</hi> October 18th. 1686.</head>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>
+                     <hi>AS I have obtained the</hi> Earl Marſhal<hi>'s Order for a Chapter, which will be on</hi> Thurſday <hi>next, as I am informed; therefore I humbly pray your Order of Summons in time, to attend the Chapter with my Witneſſes and Proofs, to him who ſhall ever Pray and Act for Juſtice.</hi>
+                  </p>
+                  <closer>
+                     <signed>James Percy.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>In Anſwer to this, they ſay, There will not ſo many Meet as will make a Chapter; which Notice is no way anſwerable to the <hi>Earl Marſhal</hi>'s Order to Them, nor Juſtice to Me, who have been kept out of my Juſt Right Seventeen Years come <hi>May</hi> next, by Priviledge an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Delays.</p>
+            <p>Now here lies my Cauſe; The Regiſter Books of ſeveral Counties are here with me; and when my Tryal is over, the Witneſſes will be gone, and muſt take the Regiſters of their ſeve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al Pariſhes back with them; moreover a Chapter before the Tryal, brings things into their proper ſphere; but a Chapter after the Tryal, is like ſetting the Cart before the Horſe.</p>
+            <floatingText xml:lang="eng" type="response">
+               <body>
+                  <head>To the Duke of <hi>Norfolk.</hi>
+                  </head>
+                  <opener>
+                     <salute>Great Sir,</salute>
+                  </opener>
+                  <p>
+                     <hi>SIR</hi> Thomas Stringer <hi>preſents his Service to your Grace, who, by reaſon of the Gout, cannot writ upon your Grace; therefore he hath directed me to declare the Matter of my ſelf: I wait for Admit<g ref="char:EOLhyphen"/>tance and pray Audience, that I may Remain, Your Grace's moſt Humble Servant,</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <date>October. 20th. 1686.</date>
+                     </dateline>
+                     <signed>James Percy.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="response">
+               <body>
+                  <p>Finding the <hi>Earl Marſhal</hi> to be gone into <hi>Norfolk,</hi> therefore I find I cannot expect a Chapter before the Tryal; and that the Gentlemen at the Chapter Board may inform themſelves at my Tryal, the 4th. day of the Term, the 26th. Inſtant, I <hi>Subpaena</hi> them, that they may be able to give His Grace an Account, according to His Warrant directed to them.</p>
+                  <p>Sir <hi>Thomas St. George,</hi> Garter, King at <hi>Arms, Subpaena'd.</hi>
+                  </p>
+                  <p>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+                  <p>Sir <hi>John Dugdale,</hi> Norroy, the <hi>Subpaena</hi> with a Shilling left upon the Chapter Board for him.</p>
+                  <p>The 20th. Inſtant, I preſented my ſelf, with my Witneſſes and ſeveral Regiſters, which they would not read, nor admit to come in; therefore the Heralds and their Books ought to be the more ſtrictly inquired into, and when the Short Pedigree is fully Proved, then the Great Pedigree ought to be Confirmed accordingly; therefore pray the Order of Court to His Grace, the Duke of <hi>Norfolk, Earl Marſhal</hi> of <hi>England,</hi> to Confirm the Pedigree of</p>
+                  <closer>
+                     <signed>James Percy.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="response">
+               <body>
+                  <opener>
+                     <salute>
+                        <hi>John Percy,</hi> Plaintiff. <hi>Daniel Hew<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t,</hi> Defendant.</salute>
+                  </opener>
+                  <p>On the 26th. Inſtant, the Tryal was put off till the 4th. of <hi>November,</hi> 1686, by reaſon the Witneſſes at <hi>Perworth,</hi> the Heralds Books at <hi>Cambridge,</hi> and other Witneſſes, did not appear. The Defendant's Council did inſiſt upon the Miſclaiming under Sir <hi>Richard Percy,</hi> which Errour is owned by the Claimant: But the Heralds Books, and Heneſt Witneſſes will remove that Scandal, ſo as the Plantiff's Pedigree will be proved clear from all Attainders, and to remain a Loyal Subject till Death.</p>
+                  <closer>
+                     <signed>James Percy.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="response">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>October</hi> 28, 1686.</date>
+                     </dateline>
+                  </opener>
+                  <p>AT a Chapter held in the Colledge of <hi>Arms,</hi> it was there found, That Sir <hi>Ingelram Percy</hi> was the Youngeſt Son of <hi>Henry Percy,</hi> Fifth Earl of <hi>Northumberland;</hi> and that Sir <hi>Ingelram</hi>'s. Siſter, <hi>Margaret Percy,</hi> was Married to <hi>Henry,</hi> Lord <hi>Clifford,</hi> the Firſt Earl of <hi>Cumberland.</hi>
+                  </p>
+                  <p>Then the Claimant offered to prove up to Sir <hi>Ingelram Percy,</hi> who had <hi>Henry Percy,</hi> who had <hi>Henry,</hi> who had <hi>James Percy</hi> the Claimant, by Regiſter Books and Witneſſes then attending upon the Chapter-Board.</p>
+                  <p>But Sir <hi>Thomas St. George,</hi> Garter, King at Arms, ſtood up and ſaid, That they had no power to adminiſter an Oath to any Witneſſes at all, for that the <hi>Earl Marſhal</hi>'s Order was only to ſearch for what they could find in the Heralds Office: Therefore what was Propoſed, muſt be Proved at the Tryal at Law.</p>
+                  <p>It is the Opinion of Council, that the Claimant ſhould have a true Copy of the Account returned to his Grace the Duke of <hi>Norfolk, Earl Marſhal</hi> of <hi>England,</hi> that thoſe Honourable Judges at the Tryal, may be throughly inform'd with the Truth of the Matter.</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>October</hi> 29, 1686.</date>
+                     </dateline>
+                     <signed>Printed, and Preſented to the Chapter-Board, by <hi>James Percy.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="response">
+               <body>
+                  <pb facs="tcp:191949:2"/>
+                  <head>
+                     <hi>John Percy,</hi> Plaintiff. <hi>Daniel Hewit,</hi> Defendant.</head>
+                  <p>THE Fourth of <hi>November,</hi> 1686. the Tryal was had before Sir <hi>Henry Bedingfield,</hi> Lord Chief Juſtice of the <hi>Common Pleas;</hi> where it was moved, That the Plaintiffs Pedigree might be Proved, by reaſon Sir <hi>Thomas St. George,</hi> Garter, King at <hi>Arms,</hi> and Sir <hi>Henry,</hi> his Brother, <hi>Clarenceux,</hi> were preſent, to hear the Colateral Line Proved by Witneſſes and Regiſter-Books, ſo as they might then have the Truth to inform the <hi>Earl Marſhal</hi> of <hi>England</hi> what was found at the Law, as well as what was found in the Heralds Office. By which Anſwer to His Grace's Order, the Pedigree might have been Confirmed by a Chapter; but the Opinion of the Court, was, That the Settlement of the Lands muſt be Proved firſt; at which the Plaintiff replied, <hi>What ſignifies the Lands, if I Prove not my Pedigree:</hi> Then did the Plaintiff preſent his Records to Prove to that Effect, but the Councils would not offer them to be read, but pretended they was not prepared, which cauſed a <hi>Non-ſuit.</hi>
+                  </p>
+                  <p>Nevertheleſs, <hi>Petworth</hi> is the Ancients Seat belonging to the <hi>Percys;</hi> for that Eſtate is ſettled upon the Name of <hi>Percy,</hi> as <hi>Arundel</hi> is upon the Name of <hi>Howard.</hi>
+                  </p>
+                  <p>As the Council kept back the Record, which loſt the Tryal in <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> 1681. ſo the Councils not putting forward the Record, cauſed the <hi>Non-ſuit.</hi>
+                  </p>
+                  <p>The 90 Coſts, ſo unduely got out of the Court by the Defendants, ought to be <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſidered to the Plaintiff that moderate <gap reason="illegible" resp="#UOM" extent="3 words">
+                        <desc>〈◊◊◊〉</desc>
+                     </gap> taxed.</p>
+                  <p>Therefore the Plaintiff humbly and earneſtly prays, that His Grace, the Duke of <hi>Norfolk, Earl Marſhal</hi> of <hi>England,</hi> will be pleaſed to give His further Direction to His former Order, that the Chapter may in<g ref="char:EOLhyphen"/>ſpect into the Colateral Line, and ſee the Church Regiſter-Books, and read his Depoſitions of his dead Witneſſes, and hear the remainder of his Witneſſes <hi>viva voce.</hi>
+                  </p>
+                  <p>☞ Whereas there is three Records loſt: Firſt, The Reſtitution of <hi>Thomas</hi> of <hi>Percy,</hi> Seventh Earl of <hi>Northumberland.</hi> Secondly, A Crea<g ref="char:EOLhyphen"/>tion of the Baronies. Thirdly, The Creation of the Earldom of <hi>Northumberland.</hi>
+                  </p>
+                  <p>
+                     <hi>Pray deliver them to Mr.</hi> Hayles, <hi>the Plaintiffs Attourney.</hi>
+                  </p>
+                  <trailer>Turn over.</trailer>
+                  <closer>
+                     <dateline>Printed the Sixth of <date>
+                           <hi>November,</hi> 1686.</date>
+                     </dateline>
+                     <signed>by <hi>James Percy.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
